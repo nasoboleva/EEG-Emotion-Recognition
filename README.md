@@ -1,6 +1,6 @@
-## EEG Emotion Recognition
+# EEG Emotion Recognition
 #### HSE Computer Science Student's Project
-##### Authors: Soboleva Natalia & Glazkova Ekaterina
+###### Authors: Soboleva Natalia & Glazkova Ekaterina
 
 EEG data processing and it's convolution using AutoEncoder + CNN + RNN
 
